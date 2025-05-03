@@ -1,17 +1,17 @@
 # Future of AI - Série de Workshops sur TensorFlow
 
-Bienvenue dans le repository GitHub de la série de **Future of AI** consacrée à **TensorFlow**. Ce workshop est conçu pour les étudiants passionnés par l'Intelligence Artificielle au sein de la communauté **Future of AI** d'IFRI. À travers cette série, nous explorons en profondeur les outils et techniques de la librairie Python **TensorFlow** 
+Bienvenue dans le repository GitHub de la série de **Future of AI** consacrée à TensorFlow. Ce workshop est conçu par les étudiants passionnés par l'Intelligence Artificielle au sein de la communauté **Future of AI** d'IFRI. À travers cette série, nous explorons en profondeur les outils et techniques de la librairie Python TensorFlow
 
 ## Objectif de la Série
 
-La série sur **TensorFlow** vise à offrir une compréhension concrète des concepts clés du framework TensorFlow, en suivant une approche pratique pour chaque projet. Nous avons débuté avec un projet d’introduction de  **classification d'images**, et nous continuerons à explorer des applications plus avancées.
+La série sur TensorFlow vise à offrir une compréhension concrète des concepts clés du framework TensorFlow, en suivant une approche pratique pour chaque projet. Nous avons débuté avec un projet d’introduction de  **classification d'images**, et nous continuerons à explorer des applications plus avancées.
 
 
 
 ### **Épisode 1 : Introduction à Tensorflow - Classification d'images  Simpsons** 
 
 
-   * Introduction à TensorFlow à travers un modèle de **classification d'images** visant à prédire les personnages des Simpsons à partir d'un dataset d'images.
+   * Introduction à TensorFlow à travers un modèle de classification d'images visant à prédire les personnages des Simpsons à partir d'un dataset d'images.
    
 
 
