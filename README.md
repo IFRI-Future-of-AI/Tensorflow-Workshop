@@ -17,7 +17,8 @@ La série sur TensorFlow vise à offrir une compréhension concrète des concept
 
 #### Ressources 
 
-* **Notebook de présentation** : https://colab.research.google.com/drive/1OYCfn1z8pHTHhWDPoSJM5R6DoVJzbm9v?usp=sharing
+* **Notebook de présentation** : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IFRI-Future-of-AI/Tensorflow-Workshop/blob/main/notebook.ipynb)
+
 * **Dataset** : https://www.kaggle.com/datasets/ghilthgbaguidi/simpson-dataset
 * **Code du projet de classification Simpson** : [GitHub - TensorFlow Simpsons](https://github.com/Ghilth/Simpson_recognition)
 * **Documentation TensorFlow** : [TensorFlow Official Docs](https://www.tensorflow.org/learn)
