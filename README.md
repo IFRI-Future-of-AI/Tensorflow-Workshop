@@ -1,7 +1,3 @@
-# Tensorflow-Workshop
-
-
-
 # Future of AI - Série de Workshops sur TensorFlow
 
 Bienvenue dans le repository GitHub de la série de **Future of AI** consacrée à **TensorFlow**. Ce workshop est conçu pour les étudiants passionnés par l'Intelligence Artificielle au sein de la communauté **Future of AI** d'IFRI. À travers cette série, nous explorons en profondeur les outils et techniques de la librairie Python **TensorFlow** 
